@@ -26,7 +26,6 @@ Buy and sell physical goods on-chain using React, Typescript, and Next.js and Ta
 
 1. Clone the repository:
 ```bash
-# If using HTTPS:
 git clone https://github.com/justelliot/ethereum-ecommerce-starter.git
 
 cd ethereum-ecommerce-starter
