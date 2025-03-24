@@ -2,6 +2,8 @@
 
 Buy and sell physical goods on-chain using React, Typescript, and Next.js and Tailwind.
 
+![banner image](/public/og-image.jpg)
+
 ## Features
 
 - ⚡ Next.js 15 and Vercel for build / deployment
