@@ -124,7 +124,7 @@ The application can be easily deployed to Vercel:
 2. Import your repository to Vercel (Note: No .env required for this to work!)
 3. Deploy!
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/justelliot/ethereum-ecommerce-starter)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/drooooooler/ethereum-ecommerce-starter)
 
 ## Contributing
 
