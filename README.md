@@ -78,19 +78,19 @@ ethereum-ecommerce-starter/
 To update your product catalog, modify the `src/db/data/products.json` file. Each product should follow this structure:
 ```json
 {
-  "id": "unique_product_id",  // Unique identifier for the product
-  "title": "Product Name",    // Display name of the product
+  "id": "unique_product_id",             # Unique identifier for the product
+  "title": "Product Name",               # Display name of the product
   "description": "Detailed product description",
-  "price": 1500,             // Price in cents (1500 = $15.00)
-  "image": "/images/product-image.jpg",  // Path to product image
-  "weight": 36,              // Weight in ounces
-  "sku": "ELT-20205-001",    // Stock keeping unit 
-  "willBeShipped": true,     // Whether the product requires shipping
-  "merchantId": "your_merchant_id",  // Your Elliot merchant ID
-  "variantInfo": [           // Product variants (optional)
+  "price": 1500,                         # Price in cents (1500 = $15.00)
+  "image": "/images/product-image.jpg",  # Path to product image
+  "weight": 36,                          # Weight in ounces
+  "sku": "ELT-20205-001",                # Stock keeping unit 
+  "willBeShipped": true,                 # Whether the product requires shipping
+  "merchantId": "your_merchant_id",      # Your Elliot merchant ID
+  "variantInfo": [                       # Product variants (optional)
     {
-      "label": "Size",       // Variant type
-      "options": ["S", "M", "L", "XL", "2XL"]  // Available options
+      "label": "Size",                         # Variant type
+      "options": ["S", "M", "L", "XL", "2XL"]  # Available options
     },
     {
       "label": "Color",
