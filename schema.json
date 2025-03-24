@@ -1,0 +1,123 @@
+[
+    {
+        "description": "",
+        "id": "1",
+        "image": "",
+        "title": "",
+        "price": 3500,
+        "weight": 10,
+        "sku": ""
+      },
+      {
+        "description": "",
+        "id": "2",
+        "image": "",
+        "title": "",
+        "price": 7000,
+        "weight": 30,
+        "sku": ""
+      },
+      {
+        "description": "",
+        "id": "3",
+        "image": "",
+        "title": "",
+        "price": 2500,
+        "weight": 10,
+        "sku": "",
+        "variantInfo": [
+          {
+            "label": "Size",
+            "options": ["S", "M", "L", "XL", "2XL"]
+          }
+        ]
+      },
+      {
+        "description": "",
+        "id": "4",
+        "image": "",
+        "title": "",
+        "price": 3500,
+        "weight": 10, 
+        "sku": "",
+        "variantInfo": [
+          {
+            "label": "Size",
+            "options": ["S", "M", "L", "XL", "2XL"]
+          }
+        ]
+      },
+      {
+        "description": "",
+        "id": "5",
+        "image": "",
+        "title": "",
+        "price": 4500,
+        "weight": 15,
+        "sku": "",
+        "variantInfo": [
+          {
+            "label": "Size",
+            "options": ["S", "M", "L", "XL", "2XL"]
+          }
+        ]
+      },
+      {
+        "description": "",
+        "id": "6",
+        "image": "",
+        "title": "",
+        "price": 5500,
+        "weight": 20, 
+        "sku": "",
+        "variantInfo": [
+          {
+            "label": "Size",
+            "options": ["S", "M", "L", "XL", "2XL"]
+          }
+        ]
+      },
+      {
+        "description": "",
+        "id": "7",
+        "image": "",
+        "title": "",
+        "price": 3000,
+        "weight": 10, 
+        "sku": ""
+      },
+      {
+        "description": "",
+        "id": "8",
+        "image": "",
+        "title": "",
+        "price": 7500,
+        "weight": 15, 
+        "sku": "",
+        "variantInfo": [
+          {
+            "label": "Size",
+            "options": ["S", "M", "L", "XL", "2XL"]
+          },
+          {
+            "label": "Color",
+            "options": ["White", "Black", "Gray"]
+          }
+        ]
+      },
+      {
+        "description": "",
+        "id": "9",
+        "image": "",
+        "title": "",
+        "price": 9000,
+        "weight": 15, 
+        "sku": "",
+        "variantInfo": [
+          {
+            "label": "Size",
+            "options": ["S", "M", "L", "XL", "2XL"]
+          }
+        ]
+      }
+]
